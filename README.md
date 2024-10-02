@@ -1,4 +1,4 @@
-test
+test1
 # vue-starter
 
 based on original `vue-ssr-starter-kit` project by @doabit, which is in turn based on vue-hackernews2
